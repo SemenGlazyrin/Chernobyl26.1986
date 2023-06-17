@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainmenu.unity
+    guid: 80f644df56a30964491969bf3f2b1961
+  - enabled: 1
+    path: Assets/Scenes/BeforeLevels.unity
+    guid: 371aca78778f4a04495492131330ad73
+  - enabled: 1
+    path: Assets/Scenes/PeopleEvacuation.unity
+    guid: 23cedd7fd952b9d46b964038bbe16703
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
